@@ -1156,7 +1156,7 @@ This project is distributed for **academic and educational purposes** under the 
 
 <div align="center">
 
-### **Malik Abubakar**
+### **Arslan Saeed**
 `F2024408134` • 4th Semester BS Cybersecurity • UMT Lahore • June 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
@@ -1172,6 +1172,6 @@ This project is distributed for **academic and educational purposes** under the 
 
 ### ⭐ If this lab helped you, consider giving it a star!
 
-Made with 💙 and 🛡️ by **Malik Abubakar**
+Made with 💙 and 🛡️ by **Arslan Saeed**
 
 </div>
